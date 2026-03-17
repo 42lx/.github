@@ -7,8 +7,9 @@ ohaponiu — Kick Off #11 (April 2026) — 42 Lisbon
 ---
 
 ### Cursus
-| MS | Project | Description | Grade |
-|-----------|---------|-------------|-------|
-| 0 | libft · pdf | C library for use in future projects | In progress |
-| 1 | ft_printf · pdf | Reimplementation of the printf function in C | In progress |
-| 1 | get_next_line · pdf | A fgets-like function in C that reads a file line by line, preserving state between calls | In progress |
+| MS | Project | Lang | Description | Grade |
+|----|---------|------|-------------|-------|
+| 0 | libft · pdf | C | Custom library for use in future projects | WIP |
+| 1 | ft_printf · pdf | C | Reimplementation of the printf function | WIP |
+| 1 | getnextline&nbsp;·&nbsp;pdf | C | A fgets-like function that reads a file line by line, preserving state between calls | WIP |
+| 2 | B2BR · pdf | DevOps | | N/A |

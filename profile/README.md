@@ -5,7 +5,6 @@ Kickoff #11, April 2026
 
 ---
 
-### Cursus
 | MS | Project | Lang | Description | Grade |
 |----|---------|------|-------------|-------|
 | 0 | [libft](https://github.com/42lx/libft) · pdf | C | Custom library for use in future projects | WIP |

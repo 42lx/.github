@@ -1,8 +1,8 @@
-Projects developed through the École 42 curriculum.
+My projects developed as part of the École 42 curriculum.
 
 [42 Lisbon](https://www.42network.org/campus/42-lisboa/)  
 Kickoff #11, April 2026  
-Author: ohaponiu ([@aleksify](https://github.com/aleksify))
+[@aleksify](https://github.com/aleksify)
 
 ---
 

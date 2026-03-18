@@ -1,7 +1,7 @@
 My projects developed as part of the École 42 curriculum.
 
 [42 Lisbon](https://www.42network.org/campus/42-lisboa/)  
-Kickoff #11 (April 2026)
+Kickoff #11 (start date: April 2026)
 
 ---
 

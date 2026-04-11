@@ -9,8 +9,8 @@ Each repository is frozen at the time of evaluation.
 
 | MS | Project | Lang | Description | Grade |
 |----|---------|------|-------------|-------|
-| 0 | [libft](https://github.com/42lx/libft)| C | Some libc functions rebuilt from scratch, plus extras | WIP |
-| 1 | [ft_printf](https://github.com/42lx/ft_printf)| C | Reimplementation of the printf function (for bonus check [here](https://codeberg.org/6times7/ft_printf)) | WIP |
-| 1 | [getnextline](https://github.com/42lx/getnextline)| C | A fgets-like function that reads a file line by line | WIP |
+| 0 | [libft](https://github.com/42lx/libft)| C | Some libc functions rebuilt from scratch, plus extras. Subject v19.2 | WIP |
+| 1 | [ft_printf](https://github.com/42lx/ft_printf)| C | Printf reimplentation with my own "bonus": write to any fd or to a string, with minimal syscalls and no buffering  (for actual bonus check [my colleague's code](https://codeberg.org/6times7/ft_printf)). Subject v12.1 | WIP |
+| 1 | [getnextline](https://github.com/42lx/getnextline)| C | A fgets-like function that reads a file line by line. Subject v14.2 | WIP |
 | 1 | [push_swap](https://github.com/42lx/push_swap) | C | Sort a stack of integers using two stacks in as few moves as possible | WIP |
 | 2 | [py-piscine](https://github.com/42lx/py-piscine)|  Python | Introduction into Python & OOP  | WIP |

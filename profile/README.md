@@ -3,7 +3,7 @@ My projects developed as part of the École 42 curriculum.
 [42 Lisbon](https://www.42network.org/campus/42-lisboa/)  
 Kickoff #11 (start date: April 2026)
 
-Each repository is frozen at the time of evaluation.
+Each repository is frozen at the time of evaluation. WIP repositories stay private until they are graded.
 
 ---
 

@@ -9,8 +9,8 @@ Each repository is frozen at the time of evaluation. If I see room for improveme
 
 | MS | Project | Type | Description | Grade |
 |----|---------|------|-------------|-------|
-| 0 | [libft](https://github.com/42lx/libft)| C | Some libc functions rebuilt from scratch, plus extras. C89-compliant, 32/64-bit portable, and using pointer arithmetic instead of indexing. Subject v19.2 | 100 |
+| 0 | [libft](https://github.com/42lx/libft)| C | Some libc functions rebuilt from scratch, plus extras. Portable C89 (32/64-bit), using only pointer arithmetic and a funny strlen. Subject v19.2 | 100 |
 | 1 | [ft_printf](https://github.com/42lx/ft_printf)| C | Printf reimplentation with my own bonus: write to any fd or to a string while using as few syscalls as possible (for actual bonus check [my colleague's code](https://codeberg.org/6times7/ft_printf)). Subject v12.1 | 100 |
 | 1 | [getnextline](https://github.com/42lx/getnextline)| C | A fgets-like function that reads a file line by line. Subject v14.2 | 125 |
 | 1 | [push_swap](https://github.com/42lx/push_swap) | C | Sort a stack of integers with a limited set of operations. Built with a custom implementation of ring buffers. Also check a [rewrite in Rust](https://github.com/aleksify/pushswap-optimizer) (features a super-optimizer). Subject v1.1 | 125 |
-| 2 | [py-piscine](https://github.com/42lx/py-piscine)|  Python | Introduction into Python & OOP  | WIP |
+| 2 | [py-piscine](https://github.com/42lx/py-piscine)|  Python | Introduction into Python & OOP. Subjects v3.x  | WIP |
